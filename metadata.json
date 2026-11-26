@@ -1,0 +1,6 @@
+{
+  "name": "GAN Smart",
+  "description": "Aplikasi Android GAN Smart Irrigation IoT (PT Golden Agin Nusa) terhubung langsung ke api.php untuk monitoring sensor, grafik, kontrol pompa, dan histori data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
